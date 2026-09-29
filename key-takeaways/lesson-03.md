@@ -33,7 +33,7 @@ Khi khởi tạo repo (git inti), nhánh mặc định sẽ được tạo ra (n
 
     Nhánh mới copy giống hệt nhánh đang đứng hiện tại
 
-- Chuyển sáng nhánh khác
+- Chuyển sang nhánh khác
 
     `git checkout <ten_branch>`
 
