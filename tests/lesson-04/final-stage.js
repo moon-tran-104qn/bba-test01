@@ -2,7 +2,7 @@ let test = [];
 for (let i = 1; i < 101; i++) {
     test.push(i);
 }
-//console.log(arr);
+//console.log(test);
 
 function findPairsDivisibleBy17(arr) {
     let count = 0;
